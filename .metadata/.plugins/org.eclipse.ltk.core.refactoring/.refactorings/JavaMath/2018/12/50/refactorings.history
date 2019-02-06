@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;Counting.main().digits&apos; in &apos;Counting.main()&apos; to field&#x0A;- Original project: &apos;JavaMath&apos;&#x0A;- Original element: &apos;Counting.main().digits&apos;&#x0A;- Field name: &apos;digits&apos;&#x0A;- Initialize field in method&#x0A;- Declared visibility: &apos;private&apos;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;digits&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;{Counting.java" name="digits" selection="168 14" stamp="1544550524406" static="true" version="1.0" visibility="2"/>
+</session>

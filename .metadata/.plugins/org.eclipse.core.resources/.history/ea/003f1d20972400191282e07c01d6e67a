@@ -1,0 +1,44 @@
+
+public class BubbleSort extends PapaSort
+{
+	public BubbleSort(int [] l)
+	{
+		super(l);
+	}
+	
+	private boolean bubbleIt(int end)
+	{
+		boolean didSwap = false;
+		for(int j = 0; j < end; j++)
+		{
+			for(int i = 1; i < (end-j); i++)
+			{
+				if(i-1 > j)
+				{
+					swap(j, i);
+					didSwap = true;
+				}
+			}
+		}
+		return didSwap;
+	}
+	
+	@Override
+	public void executeAlgorithm()
+	{
+		boolean done = false;
+		int bubbleEnd = myList.length-1;
+		do {
+			
+		} while(!done);
+		
+		
+		bubbleIt(super.getList().length-1);
+		
+		
+		
+		
+		
+	}
+	
+}

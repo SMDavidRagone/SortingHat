@@ -1,0 +1,15 @@
+
+public class InsertionSort extends PapaSort{
+	
+	public InsertionSort(int[] l, String name)
+	{
+		super(l, name);
+	}
+	
+	@Override
+	public void executeAlgorithm()
+	{
+		
+	}
+
+}
