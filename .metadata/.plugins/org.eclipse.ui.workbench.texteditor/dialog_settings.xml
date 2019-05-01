@@ -2,29 +2,30 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="Vach" key="selection"/>
+		<item value="paintImmediately" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="paintImmediately"/>
+			<item value="whose"/>
+			<item value="repaint"/>
+			<item value="computer"/>
+			<item value="toLowerCase"/>
+			<item value="startNewGame"/>
+			<item value="penteboardsquare"/>
+			<item value="initial"/>
+			<item value="initialPente"/>
+			<item value="actionListener"/>
+			<item value="action"/>
+			<item value="reset"/>
+			<item value="check"/>
 			<item value="vach"/>
 			<item value="vachris"/>
-			<item value="gameOver"/>
-			<item value="actionPerf"/>
-			<item value="BB"/>
-			<item value="bounding"/>
-			<item value="bb"/>
-			<item value="obhit"/>
-			<item value="ob"/>
-			<item value="collision"/>
-			<item value="get"/>
-			<item value="Background"/>
-			<item value="Back"/>
-			<item value="back"/>
-			<item value="drawImage"/>
 		</list>
 		<list key="replacehistory">
+			<item value="toLowerCase.equals"/>
 			<item value="drawSmiley"/>
 		</list>
 	</section>
@@ -32,7 +33,7 @@
 		<item value="294" key="DIALOG_WIDTH"/>
 		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
 		<item value="408" key="DIALOG_HEIGHT"/>
-		<item value="1372" key="DIALOG_X_ORIGIN"/>
-		<item value="378" key="DIALOG_Y_ORIGIN"/>
+		<item value="1056" key="DIALOG_X_ORIGIN"/>
+		<item value="154" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>

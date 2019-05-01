@@ -2,6 +2,9 @@ import java.util.Arrays;
 
 public abstract class PapaSort {
 
+	//protected int [] myList;
+	//protected String whichSort;
+	
 	private int [] myList;
 	private String whichSort;
 	
